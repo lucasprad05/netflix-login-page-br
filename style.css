@@ -244,6 +244,7 @@ body::before {
     background-color: black;
     margin-left: 455px;
     margin-top: 26px;
+    border:solid 1px;
 }
 
 .language img {
